@@ -2,14 +2,14 @@
 
 ### Hacker White Hat - Segurança da Informação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/emanuel-edi-oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-edi-oliveira/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:emanuel.edi.oliveira@hotmail.com)
 
 ---
 
 - 🎓 **Graduado em:** Segurança da Informação
 - 🎯 **Foco em:** Blue Team - Analista SOC
-- 🌐 **LinkedIn:** [Minhas experiências e competências](https://www.linkedin.com/in/emanuel-edi/)
+- 🌐 **LinkedIn:** [Minhas experiências e competências](https://www.linkedin.com/in/emanuel-edi-oliveira/)
 
 ---
 
@@ -73,3 +73,4 @@ Este é o meu portfólio de segurança cibernética, criado para destacar meu ap
 
 ---
 
+Adicione imagens e ícones acima para deixar o README mais atrativo e dinâmico. As imagens sugeridas podem ser encontradas nas documentações oficiais das ferramentas ou no Wikimedia Commons. Se precisar de ajuda para hospedar ou ajustar o README, estou à disposição!
