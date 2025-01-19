@@ -29,9 +29,9 @@ Este é o meu portfólio de segurança cibernética, estou ansioso para ingressa
 ## Ferramentas
 
 <div>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://br.freepik.com/icone/link_16632647#fromView=keyword&page=1&position=33&uuid=bfdb90a0-f50f-490a-accd-0bdda62dcb6d" />
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName" />
 </div>
