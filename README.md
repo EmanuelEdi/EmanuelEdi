@@ -31,20 +31,23 @@ Este é o meu portfólio de segurança cibernética, criado para destacar meu ap
 ### Ferramentas de Segurança
 
 - **Metasploit**: Framework para testes de penetração e desenvolvimento de exploits.  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Metasploit_logo_and_wordmark.png" alt="Metasploit Logo" width="150">
+  <img width="70" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>
 
 - **Wireshark**: Análise de tráfego de rede.  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" alt="Wireshark Logo" width="150">
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
 
 - **Nmap**: Varredura e mapeamento de redes.  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Nmap_logo_small.png" alt="Nmap Logo" width="150">
-
-- **Burp Suite**: Testes de segurança em aplicações web.  
-  <img src="https://portswigger-cdn.net/burp/releases/v2023.8.1/community-logo.png" alt="Burp Suite Logo" width="150">
+  <img width="70" src="https://img.icons8.com/color/240/nmap.png" alt="nmap"/>
 
 - **Kali Linux**: Ambiente completo para testes de segurança.  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="Kali Linux Logo" width="150">
+  <img width="70" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 
+- **Windows**: Análise e reforço de segurança no ambiente Windows.  
+  <img width="70" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
+
+- **Linux**: Administração e segurança em sistemas Linux.  
+  <img width="64" height="64" src="https://img.icons8.com/dusk/64/linux.png" alt="linux"/>
+  
 ### Habilidades Técnicas
 
 - Monitoramento e análise de eventos de segurança.
@@ -71,5 +74,3 @@ Este é o meu portfólio de segurança cibernética, criado para destacar meu ap
 🌐 LinkedIn: [Emanuel Edi](https://www.linkedin.com/in/emanuel-edi-oliveira/)
 
 ---
-
-Adicione imagens e ícones acima para deixar o README mais atrativo e dinâmico. As imagens sugeridas podem ser encontradas nas documentações oficiais das ferramentas ou no Wikimedia Commons. Se precisar de ajuda para hospedar ou ajustar o README, estou à disposição!
