@@ -73,4 +73,3 @@ Este é o meu portfólio de segurança cibernética, criado para destacar meu ap
 
 ---
 
-Adicione imagens e ícones acima para deixar o README mais atrativo e dinâmico. As imagens sugeridas podem ser encontradas nas documentações oficiais das ferramentas ou no Wikimedia Commons. Se precisar de ajuda para hospedar ou ajustar o README, estou à disposição!
