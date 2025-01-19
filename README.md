@@ -1,4 +1,4 @@
-<h1 align="center">🕵️‍♂️ Olá, Me chamo Emanuel Edi</h1>
+<h1 align="center">🕵️‍♂️Olá, Me chamo Emanuel Edi</h1>
 <h3 align="center">Hacker White Hat - Segurança da Informação</h3>
 <a href="https://www.linkedin.com/in/emanuel-edi-oliveira/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
