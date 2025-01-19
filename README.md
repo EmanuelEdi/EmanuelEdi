@@ -20,18 +20,10 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 Este é o meu portfólio de segurança cibernética, estou ansioso para ingressar em uma organização com visão de futuro, onde minhas habilidades e entusiasmo pela segurança possam causar um impacto significativo.
 
 # Visão geral do projeto
-|        Projeto         |       | Link                                                                                     |
-|------------------------|-------|-----------------------------------------------------------------------------------------|
-|      Network Analysis  |       | <a href ="https://github.com/EmanuelEdi/Projetos-de-Rede"> Projetos de Rede </a>        |
-|      Desafios Bootcamp |       | <a href ="https://github.com/EmanuelEdi/Projetos-Dio.me/blob/main/README.md">Bootcamp Santander2024</a> |
-|      Analista Soc      |       | <a href ="https://github.com/EmanuelEdi/tryhackme-Soc/blob/main/README.md"> Estudos e Labs sobre Soc</a>|
+|        Projeto         |  Link                                                                                     |
+|------------------------|-----------------------------------------------------------------------------------------|
+|      Eternal Blue      | <a href ="https://github.com/EmanuelEdi/ETERNAL-BLUE"> Exploração Eternal Blue </a>        |
+|      Desafios Ohsint   | <a href ="https://github.com/EmanuelEdi/OhSINT---TRY-HACK-ME">OhSINT</a> |
+|      Santander         | <a href ="https://github.com/EmanuelEdi/SANTANDER-BOOTCAMP-CIBERSEGURAN-A"> Desafios Santander BootCamp 2024</a>|
 
-## Ferramentas
 
-<div>
-<img src="https://br.freepik.com/icone/link_16632647#fromView=keyword&page=1&position=33&uuid=bfdb90a0-f50f-490a-accd-0bdda62dcb6d" />
-</div>
-
-<div>
-<img src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName" />
-</div>
