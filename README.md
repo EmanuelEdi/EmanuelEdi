@@ -9,6 +9,7 @@
 
 - 🎓 **Graduado em:** Segurança da Informação
 - 🎯 **Foco em:** Blue Team - Analista SOC
+- 🧑‍🎓 **Curando:** Pós-Graduação em Defesa Cibernética e Pós-Graduação em Segurança da Informação
 - 🌐 **LinkedIn:** [Minhas experiências e competências](https://www.linkedin.com/in/emanuel-edi-oliveira/)
 
 ---
