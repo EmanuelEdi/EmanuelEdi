@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, Me chamo Emanuel Edi
+# 👨‍💻Olá, Me chamo Emanuel Edi
 
 ### Hacker White Hat - Segurança da Informação
 
@@ -30,22 +30,28 @@ Este é o meu portfólio de segurança cibernética, criado para destacar meu ap
 
 ### Ferramentas de Segurança
 
-- **Metasploit**: Framework para testes de penetração e desenvolvimento de exploits.  
+- **Metasploit**: Framework para testes de penetração e desenvolvimento de exploits.
+    
   <img width="70" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>
 
-- **Wireshark**: Análise de tráfego de rede.  
+- **Wireshark**: Análise de tráfego de rede.
+   
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
 
-- **Nmap**: Varredura e mapeamento de redes.  
+- **Nmap**: Varredura e mapeamento de redes.
+  
   <img width="70" src="https://img.icons8.com/color/240/nmap.png" alt="nmap"/>
 
-- **Kali Linux**: Ambiente completo para testes de segurança.  
+- **Kali Linux**: Ambiente completo para testes de segurança.
+  
   <img width="70" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 
-- **Windows**: Análise e reforço de segurança no ambiente Windows.  
+- **Windows**: Análise e reforço de segurança no ambiente Windows.
+  
   <img width="70" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
 
-- **Linux**: Administração e segurança em sistemas Linux.  
+- **Linux**: Administração e segurança em sistemas Linux.
+   
   <img width="64" height="64" src="https://img.icons8.com/dusk/64/linux.png" alt="linux"/>
   
 ### Habilidades Técnicas
