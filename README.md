@@ -1,6 +1,9 @@
 <h1 align="center">Olá 👋, Me chamo Emanuel Edi</h1>
 <h3 align="center">Apaixonado por Segurança da Informação</h3>
-<a href="https://www.linkedin.com/in/emanuel-edi-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/emanuel-edi-oliveira/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 - 📫 Você pode entrar em contato comigo através do e-mail **emanuel.edi.oliveira@hotmail.com**
 
