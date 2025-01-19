@@ -58,11 +58,9 @@ Este é o meu portfólio de segurança cibernética, criado para destacar meu ap
 
 | **Projeto**       | **Descrição**                                 | **Link**                            |
 |--------------------|---------------------------------------------|------------------------------------|
-| Eternal Blue       | Exploração de vulnerabilidade SMB          | [Exploração Eternal Blue](#)       |
+| Eternal Blue       | Exploração de vulnerabilidade SMB          | [Exploração Eternal Blue](https://github.com/EmanuelEdi/ETERNAL-BLUE)       |
 | Desafios OSINT     | Pesquisa e coleta de informações públicas  | [OhSINT](#)                        |
 | Santander Bootcamp | Desafios do programa Santander Bootcamp    | [Desafios Santander BootCamp 2024](#) |
-
-> **Nota:** Substituir `#` pelos links reais dos projetos hospedados no GitHub ou outra plataforma.
 
 ---
 
