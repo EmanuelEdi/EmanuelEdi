@@ -69,7 +69,7 @@ Este é o meu portfólio de segurança cibernética, criado para destacar meu ap
 ## 📌 Contato
 
 📧 Email: [emanuel.edi.oliveira@hotmail.com](mailto:emanuel.edi.oliveira@hotmail.com)  
-🌐 LinkedIn: [Emanuel Edi](https://www.linkedin.com/in/emanuel-edi/)
+🌐 LinkedIn: [Emanuel Edi](https://www.linkedin.com/in/emanuel-edi-oliveira/)
 
 ---
 
